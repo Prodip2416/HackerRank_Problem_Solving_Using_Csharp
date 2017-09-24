@@ -1,0 +1,6 @@
+F:\HackerRank\Staircase\Staircase\bin\Debug\Staircase.exe.config
+F:\HackerRank\Staircase\Staircase\bin\Debug\Staircase.exe
+F:\HackerRank\Staircase\Staircase\bin\Debug\Staircase.pdb
+F:\HackerRank\Staircase\Staircase\obj\Debug\Staircase.csprojResolveAssemblyReference.cache
+F:\HackerRank\Staircase\Staircase\obj\Debug\Staircase.exe
+F:\HackerRank\Staircase\Staircase\obj\Debug\Staircase.pdb
