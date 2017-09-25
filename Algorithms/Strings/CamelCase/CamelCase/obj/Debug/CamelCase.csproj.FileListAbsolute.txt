@@ -1,0 +1,6 @@
+F:\HackerRank\Algorithms\Strings\CamelCase\CamelCase\bin\Debug\CamelCase.exe.config
+F:\HackerRank\Algorithms\Strings\CamelCase\CamelCase\bin\Debug\CamelCase.exe
+F:\HackerRank\Algorithms\Strings\CamelCase\CamelCase\bin\Debug\CamelCase.pdb
+F:\HackerRank\Algorithms\Strings\CamelCase\CamelCase\obj\Debug\CamelCase.csprojResolveAssemblyReference.cache
+F:\HackerRank\Algorithms\Strings\CamelCase\CamelCase\obj\Debug\CamelCase.exe
+F:\HackerRank\Algorithms\Strings\CamelCase\CamelCase\obj\Debug\CamelCase.pdb
