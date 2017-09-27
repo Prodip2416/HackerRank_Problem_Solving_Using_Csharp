@@ -1,0 +1,6 @@
+F:\HackerRank\Algorithms\Strings\MarsExploration\MarsExploration\bin\Debug\MarsExploration.exe.config
+F:\HackerRank\Algorithms\Strings\MarsExploration\MarsExploration\bin\Debug\MarsExploration.exe
+F:\HackerRank\Algorithms\Strings\MarsExploration\MarsExploration\bin\Debug\MarsExploration.pdb
+F:\HackerRank\Algorithms\Strings\MarsExploration\MarsExploration\obj\Debug\MarsExploration.csprojResolveAssemblyReference.cache
+F:\HackerRank\Algorithms\Strings\MarsExploration\MarsExploration\obj\Debug\MarsExploration.exe
+F:\HackerRank\Algorithms\Strings\MarsExploration\MarsExploration\obj\Debug\MarsExploration.pdb
