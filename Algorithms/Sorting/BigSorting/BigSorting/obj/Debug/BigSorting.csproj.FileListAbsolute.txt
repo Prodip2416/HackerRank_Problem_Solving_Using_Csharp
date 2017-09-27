@@ -1,0 +1,5 @@
+F:\HackerRank\Algorithms\Sorting\BigSorting\BigSorting\bin\Debug\BigSorting.exe.config
+F:\HackerRank\Algorithms\Sorting\BigSorting\BigSorting\bin\Debug\BigSorting.exe
+F:\HackerRank\Algorithms\Sorting\BigSorting\BigSorting\bin\Debug\BigSorting.pdb
+F:\HackerRank\Algorithms\Sorting\BigSorting\BigSorting\obj\Debug\BigSorting.exe
+F:\HackerRank\Algorithms\Sorting\BigSorting\BigSorting\obj\Debug\BigSorting.pdb
