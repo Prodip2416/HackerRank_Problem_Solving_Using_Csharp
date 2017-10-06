@@ -1,0 +1,1 @@
+SELECT Distinct CITY FROM STATION WHERE (CITY LIKE '%[aeiou]') order by city;

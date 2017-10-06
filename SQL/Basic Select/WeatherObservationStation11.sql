@@ -1,0 +1,1 @@
+select distinct CITY from STATION where (CITY NOT LIKE '[aeiou]%') OR  (CITY NOT LIKE '%[aeiou]') group by CITY;
