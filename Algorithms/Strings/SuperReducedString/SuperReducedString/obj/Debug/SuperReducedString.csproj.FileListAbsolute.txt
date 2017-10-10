@@ -1,0 +1,5 @@
+F:\HackerRank\Algorithms\Strings\SuperReducedString\SuperReducedString\bin\Debug\SuperReducedString.exe.config
+F:\HackerRank\Algorithms\Strings\SuperReducedString\SuperReducedString\bin\Debug\SuperReducedString.exe
+F:\HackerRank\Algorithms\Strings\SuperReducedString\SuperReducedString\bin\Debug\SuperReducedString.pdb
+F:\HackerRank\Algorithms\Strings\SuperReducedString\SuperReducedString\obj\Debug\SuperReducedString.exe
+F:\HackerRank\Algorithms\Strings\SuperReducedString\SuperReducedString\obj\Debug\SuperReducedString.pdb
