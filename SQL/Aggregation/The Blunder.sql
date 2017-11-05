@@ -1,0 +1,1 @@
+select CEILING (AVG (cast ((Salary) as decimal)) - AVG (cast ((replace(salary, '0',''))as decimal)))   from employees;
