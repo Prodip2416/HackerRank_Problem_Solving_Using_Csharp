@@ -1,0 +1,6 @@
+C:\Users\Prodip\Desktop\Pangrams\Pangrams\bin\Debug\Pangrams.exe.config
+C:\Users\Prodip\Desktop\Pangrams\Pangrams\bin\Debug\Pangrams.exe
+C:\Users\Prodip\Desktop\Pangrams\Pangrams\bin\Debug\Pangrams.pdb
+C:\Users\Prodip\Desktop\Pangrams\Pangrams\obj\Debug\Pangrams.csprojResolveAssemblyReference.cache
+C:\Users\Prodip\Desktop\Pangrams\Pangrams\obj\Debug\Pangrams.exe
+C:\Users\Prodip\Desktop\Pangrams\Pangrams\obj\Debug\Pangrams.pdb
